@@ -4,6 +4,10 @@
     scroll-behavior: smooth;
 }
 
+body {
+    background: #fff;
+}
+
 body.lock-scroll {
     overflow: hidden;
 }
